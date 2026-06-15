@@ -1,0 +1,38 @@
+# Tic Tac Toe Game (Python Tkinter)
+
+This is a simple Tic Tac Toe game developed using Python and the Tkinter GUI library. The project provides an interactive graphical interface where players can click on buttons to make their moves. It demonstrates fundamental concepts of Python programming, event handling, GUI development, and game logic implementation.
+
+## Features
+
+* Interactive graphical user interface (GUI)
+* 3×3 Tic Tac Toe game board
+* Clickable buttons for player moves
+* Automatic move detection and game updates
+* Win and draw detection logic
+* Beginner-friendly and easy-to-understand code
+* Built using Python's built-in Tkinter library
+
+## Technologies Used
+
+* Python
+* Tkinter (GUI Library)
+
+## Learning Outcomes
+
+This project helps in understanding:
+
+* Python functions and loops
+* Event-driven programming
+* GUI development with Tkinter
+* List manipulation and game state management
+* Basic game development concepts
+
+## Future Improvements
+
+* Add AI opponent using the Minimax algorithm
+* Implement score tracking
+* Add restart and reset options
+* Improve UI design and animations
+* Add multiplayer mode
+
+This project is suitable for beginners who want to learn Python GUI development and basic game programming.
